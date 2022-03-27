@@ -1,1 +1,1 @@
-Rust guess game!
+Rust guessing game!
